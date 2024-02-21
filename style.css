@@ -1,0 +1,12 @@
+#class{font-style: italic;
+    font-weight: bolder;
+    padding: 20px;
+margin: 5%;
+border: solid tomato;
+border-style: dotted;
+
+}
+#container{
+    border: solid 5px green;
+
+}
